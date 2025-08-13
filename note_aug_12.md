@@ -1,7 +1,7 @@
-Summary : Aug 24, 2025
+## Summary : Aug 24, 2025
 Today in class the professor show us how to :
 
-- he mention " Attention is key", "Attention will either make you or break you as a developer"
+- he mention " Attention is key", "Attention will either make you or break you as a developer" - Professor
 
 - use git commands, push,stage and commit in VS code 
     - shows us in 3 different ways, in the temeral, in explorer and in VS Code
@@ -17,11 +17,20 @@ Today in class the professor show us how to :
 - made us complete summary notes to push to github for the lab
 - told us "All notes were all up to us" -
 
-- you determine how fast the runs
--
+- you determine how fast the class runs, the professor is there to guide and teach you.
+
+### After Hours
+
+- KEY : grab a book, read, highlight, code it and repeat
+how are you going to develop that mindset if you haven't developed it.
+you have read enough about it  - you have to slow down and spend time developing it
+
+you haven't had time learn more about the topic
+ trick : one hour a day, just read a book 
+time progress step-by-step
+
 
 Assigment (Your benifits) : Due thursday 
- research custumizte termal
-  personal -
+ research custumizte termal for your personal environment
 
   highlight (glance Ch 2:)
