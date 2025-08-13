@@ -1,0 +1,27 @@
+Summary : Aug 24, 2025
+Today in class the professor show us how to :
+
+- he mention " Attention is key", "Attention will either make you or break you as a developer"
+
+- use git commands, push,stage and commit in VS code 
+    - shows us in 3 different ways, in the temeral, in explorer and in VS Code
+    - show us how to open a VS Code in a file "code ." 
+- have us install 2 extention in VS code- gitlens & git graph
+- show us how to create an MD file in VS code.
+- show us how to create a repo in Github
+- I 2 question on "what happens when you bring a folder into the github folder - it copies the file into the folder.
+
+- He asked "Daniel G" to show his screen to install the 2 VS Code Extension
+- Ruta (Student Conselor & Development Coach(Something like that)) popped in for a few seconds to introduce herself and invite others for quick chat...
+- the professor show us his workset up, on how he works best, with VS Code (left) temeral(Right)
+- made us complete summary notes to push to github for the lab
+- told us "All notes were all up to us" -
+
+- you determine how fast the runs
+-
+
+Assigment (Your benifits) : Due thursday 
+ research custumizte termal
+  personal -
+
+  highlight (glance Ch 2:)
