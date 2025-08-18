@@ -1,18 +1,21 @@
-Grasp the fundamental concept of probability.
-Gain insight into how probability distributions depict the likelihood of various outcomes in a dataset.
-Become familiar with the bell-shaped curve of the normal distribution.
-Understand the basics of hypothesis testing and the step-by-step process it entails. 
-
-Introduction to Probability
 
 
 
+- Grasp the fundamental concept of probability.
+- Gain insight into how probability distributions depict the likelihood of various outcomes in a dataset.
+- Become familiar with the bell-shaped curve of the normal distribution.
+- Understand the basics of hypothesis testing and the step-by-step process it entails. 
 
-Probability Distribuation
+### Introduction to Probability
+
+
+
+
+#### Probability Distribuation
 help us understand the likelihood of different outcomes within a dataset.
 
 
-Normal Distribution
+#### Normal Distribution
 shows how data is spread around an average value, resembling a bell-shaped curve, with its peak at the mean and width determined by data variability.
 
 

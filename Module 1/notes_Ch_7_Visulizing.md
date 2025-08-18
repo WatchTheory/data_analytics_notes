@@ -1,15 +1,15 @@
 
 
-Differentiate between frequency distributions and other types of data visualizations.
-Describe and interpret bar charts and histograms for displaying frequency distributions.
-Identify key components of a boxplot, including quartiles, whiskers, and outliers.
-Calculate and interpret the Interquartile Range (IQR) to assess data spread.
+- Differentiate between frequency distributions and other types of data visualizations.
+- Describe and interpret bar charts and histograms for displaying frequency distributions.
+- Identify key components of a boxplot, including quartiles, whiskers, and outliers.
+- Calculate and interpret the Interquartile Range (IQR) to assess data spread.
 Compare and contrast histograms and boxplots to understand their unique insights into data distributions.
 
 
 #### Visualizing Data Distriution
 
-Question : When working with a dataset, does it matter which visulization you use?
+**Question : When working with a dataset, does it matter which visulization you use?**
 
 
 

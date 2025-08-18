@@ -1,11 +1,11 @@
 
 
 
-Define and calculate percentiles and quartiles in a dataset.
-Compute and interpret range, variance, and standard deviation.
-Analyze the implications of measures of dispersion on data variability.
-Compare and contrast the use of different measures of position and dispersion.
-Apply statistical concepts to real-world scenarios for informed decision-making.
+- Define and calculate percentiles and quartiles in a dataset.
+- Compute and interpret range, variance, and standard deviation.
+- Analyze the implications of measures of dispersion on data variability.
+- Compare and contrast the use of different measures of position and dispersion.
+- Apply statistical concepts to real-world scenarios for informed decision-making.
 
 
 Measures of position are crucial for understanding how individual values relate to the entire dataset.
@@ -14,7 +14,7 @@ Measures of position are crucial for understanding how individual values relate 
 A percentile is a statistical measure that indicates the value below which a certain percentage of observations fall within a dataset.
 
 Step 1 :
-Step  2:
+Step 2:
 Step 3 :
 
 #### Quartiles
@@ -41,4 +41,4 @@ Variance
 
 Standard Deviation
 
-Question : why is the standard deviation important in a dataset?
+**Question : why is the standard deviation important in a dataset?**

@@ -19,3 +19,19 @@ read book and highlight
 go back and only read highlight. 
 
 you can learn this stuff, its not easy but its not impossible
+
+
+Organize your notes! 
+
+it requires ==**Reputation**==
+
+He will assume you read the material, slides presentation, 
+
+reading ahead and take notes, when you come to class with your question.
+
+
+
+#### Moving to Excel 
+
+edit, format, sort and preform mathematical computations
+
