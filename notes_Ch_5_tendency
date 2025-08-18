@@ -1,0 +1,42 @@
+
+
+Descriptive statistics - efer to a set of statistical methods used to summarize, organize, and explain the main characteristics of a dataset.
+ - distibuttion 
+ - measure of central tendency 
+    - mean
+    - medium
+    - mode
+ - measures of variablity 
+    - range
+    - standard deviation
+    - variance
+    - interquartile range 
+
+
+#### Mean
+The mean is the average of a dataset, calculated by adding all the values together and dividing by the number of observations.
+
+Key Point : heavily influenced by **outliers**(extremely high or low values), which may distort its representation of the dataset. 
+
+
+
+#### Medium
+ is the middle value of a dataset when it is sorted in ascending order. It effectively represents the central point, especially in datasets with skewed distributions or outliers.
+ Own Word : 
+
+ 
+
+Key Point :  The median is a robust measure that is not affected by outliers, making it particularly useful for analyzing skewed datasets.
+
+
+
+Mode 
+is the value that appears most frequently in a dataset. It is especially useful in categorical data analysis, where we want to identify the most common category.
+
+
+Key Point : There can be multiple modes (bimodal or multimodal) or no mode at all if all values occur with equal frequency.
+
+
+Mean: Ideal for symmetrical distributions without outliers, as it represents an accurate average.
+Median: Best for skewed distributions or datasets with outliers, since it captures the center without being distorted by extreme values.
+Mode: Useful for categorical data or to pinpoint the most frequently occurring value, especially in non-numeric datasets.
