@@ -2,12 +2,22 @@
 
 <-------------------------------Class Summary------------------------------------------->
 - [ ] Go back and take notes for the Module 1
+- [ ] Go back and re-organized Chapter 1,2,3,4 and 5
 
 - Keep your Notes Organized
 - The professor will now ----> He will now assume you read the material. 
    - He advice, reading ahead and take notes, when you come to class that day, come with your question
+- Will be working on a collaboration project, All 3 students + professor
+- "Learning requires It Requires **Reputation**"
+- Presentating 
+    - only show the professor the the dataset page and the github of newly created repository. Everything else is redundant
 
-
+- Today, the professor went over Slide presentation of Excel 
+   - making a new worksheet
+   - cut information from dataset and pasting cell in new worksheet
+   - Multiplation, Addition, Subtraction, Division of cells 
+   - Sorting a columns and rows
+   - slides will be available in the disco, in the resources folder
 
 
 <-------------------------------Class Summary------------------------------------------->
@@ -28,16 +38,21 @@ Introduction into Class
 3. Go back and only read highlight. 
                 
 
-#### What he does now   
+#### What the professor does now   
 1. Read book and highlight
 2. Go back and only read highlight. 
 
 
 
-
 #### Moving to Excel 
+- Today, the professor went over Slide presentation of Excel 
+   - making a new worksheet
+   - cut information from dataset and pasting cell in new worksheet
+   - Multiplation, Addition, Subtraction, Division of cells 
+   - Sorting a columns and rows
+   - slides will be available in the disco, in the resources folder
 
-edit, format, sort and preform mathematical computations
+
 
 **In Class Assignment**
 pick one dataset and create 5 subsets of that data, range from 1 to 50 at least 5 and 5 subsets and sort each subset, at least one numerical  and least 3 operating column pick sort out and write down difference, 
@@ -55,7 +70,7 @@ From the NYPD Arrest data Year-to-Year dataset
  2. The difference between them would be the amount of charges in each Sheet, For example In sheet 4 has more Assult than burglary 
 
 
-Preforming Live in Class
+#### Preforming Live in Class
 1. go find a dataset 
 2.create a repository and add brief summary of the dataset in Readme file.
 3. create a =="data"== folder
