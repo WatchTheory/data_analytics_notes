@@ -1,5 +1,3 @@
-
-
 Lesson
 
 - Understand the data analysis process, recognizing its key phases from problem definition through data collection, cleaning, analysis, and interpretation/communication of insights, and appreciate the significance of each phase in achieving meaningful outcomes.

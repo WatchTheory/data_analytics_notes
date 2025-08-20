@@ -5,11 +5,6 @@ Classify and comprehend different types of data, including numerical (discrete a
 
 
 
-
-
-
-
-
 ### What is a Dataset?
 
 
@@ -29,18 +24,13 @@ Structures
 
 
 
-
-
 Unstructures
-
-
 
 
 ### Datasets Formats
 
 
 Wide Format
-
 
 
 Long Format

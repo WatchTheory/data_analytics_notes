@@ -106,6 +106,39 @@ think about this way : Tatw
 
 
 
+concepts in class 
+fresh in your mind
+- system in mind 
+- don't have systems, going to be loss in the course
+   - setup notes
+        - repository of notes  so to continue to learn
+            - going to have lots steps(only add complexity)
+- the point 
+    - to have a system
+
+
+Excel Assignment 
+- [x] Create 5 different graphs from the 5 different subsets from [notes_aug_12] 
+
+data processing or data engineering
+- how to intera
+- how to visualize the data
+- create better charts
+- model the data in a way to further write a story 
+-
+
+think about 
+- create subsets and 
+- 
+
+Task 
+what you did
+why did you do it
+
+
+tomorrow 
+- closing out module 1 
+    - okay to start working on project
  
 
 
