@@ -1,3 +1,6 @@
+
+### 📚 LESSON 01: Overview of Excel Basics
+
 Identify the various options Microsoft Software offers for data analysts.
 Demonstrate proficiency in navigating and exploring the essential features of the Excel interface.
 Apply fundamental functions to perform basic calculations on datasets.
