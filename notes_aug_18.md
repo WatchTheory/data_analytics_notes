@@ -1,8 +1,9 @@
 
 
 <-------------------------------Class Summary------------------------------------------->
-- [ ] Go back and take notes for the Module 1
-- [ ] Go back and re-organized Chapter 1,2,3,4 and 5
+- [x] Go back and take notes for the Module 1
+- [x] Go back and re-organized Chapter 1,2,3,4 and 5
+- [ ] Provide more detail for Ch 1, 2, 3, 4,
 
 - Keep your Notes Organized
 - The professor will now ----> He will now assume you read the material. 
