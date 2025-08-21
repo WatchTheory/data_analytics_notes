@@ -12,9 +12,6 @@ Lab 3
  4.Finally, uploading copy to github repository
 
 
-
-
-
 &nbsp;
 &nbsp;
 <-----------------------------------------------------------------Class Summary------------------------------------->
