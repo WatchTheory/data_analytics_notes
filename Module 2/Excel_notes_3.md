@@ -18,10 +18,10 @@ Generate visually compelling pivot charts to enhance data interpretation and pre
 
 #### Advance Excel Function
 
-Logical Function
+**Logical Function**
+crafting lgofical conditions or criteria and yeild `TRUE` or `FALSE` outcoome accordingly, utility becomes evident in decision-making processes and filtering of data.
 
-
-Lookup Function
+**Lookup Function**
 - Vlookup & HLookkup
     - search for values in a table and retrieve information based on the value
         - diffference between them
@@ -32,10 +32,15 @@ Lookup Function
 
 
 #### Pivot Table & Charts 
-- Pivot Table 
+- **Pivot Table** 
     - allow user to effectively summarize and analyze extensive by dynamically reorganizing or "pivoting' data based on specific criteria
     - A  pivot table ability to combine aggregation with grouping, by dragging and dropping fields into designated areas user can explore data from different perspectives
     - it what separates a "casual" Excel user from a true power use
 
-- Pivot Charts
+- **Pivot Charts**
    - visually represent
+        - simple drag-and-drop actions, transform complex data into visulization
+
+
+**Conclusion**
+   To sum up, this lesson has dove into fundamental Excel proficiencies, spanning the creation of diverse chart types, utilization of logical and lookup functions, and adept handling of pivot tables and pivot charts. These competencies serve as the bedrock for proficient data analysis and reporting within Excel. Expect lots of opportunities for hands-on practice in our upcoming applied lessons!
