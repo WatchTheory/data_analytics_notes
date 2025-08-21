@@ -5,7 +5,6 @@ National Park Service is coming up with a new promotional campaign for the Pacif
 
 
 
-
 Clinet Introduction
  - total number of parks in pacific
  - what are the most popular parks in the PNW, based on their vistors numbers

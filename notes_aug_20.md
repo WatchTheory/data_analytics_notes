@@ -23,3 +23,4 @@ Introduction to docker
 
 Introduction DBeaver 
 
+Cover notes for Excel notes module 2 
