@@ -68,9 +68,9 @@ Effectively utilize basic and conditional formatting, sorting, and filtering tec
     - Average
 
 Example 
-  =sum(C4:C17)
-  =count(H4:G4)
-  =min(A1:A3)
+  - sum(C4:C17)
+  - count(H4:G4)
+  - min(A1:A3)
 
 
  In-Class Exercies - Financial Metric 

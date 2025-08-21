@@ -8,5 +8,8 @@ Working on lab that focus on highligh skills in Excel
     - Average
     - Sum
 - Conditional Formatting 
-- 
+
+
+### Attendion
+==When dealing with data, Attention-to-detal is Key==
 
