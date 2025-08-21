@@ -17,12 +17,32 @@ Clinet Introduction
 
 #### Task 1 & Taks 2 
 
--
+- data dictionary 
+    - need more information
+- Question 1
+    - filter state column to Orgaen & Washington
+        - CountA Function
+            - 14 parks
+- Question 2
+    - sort recreation column
+        - asending or desending 
+            - sort by most popular park
+
 
 
 
 
 #### Task 3 & Task 4 
+
+- Question 3
+    - Sum total number of recreational Visits parks
+        - =SUM(RC Column)
+- Question 4
+    - Sum total number of recreational Visits OverNight
+        - =SUM(RV column)
+    - Sum total number of back country OverNight
+        - =SUM(back country)
+    
 
 
 
