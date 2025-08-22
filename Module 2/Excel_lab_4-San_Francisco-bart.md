@@ -1,7 +1,9 @@
 
 
 Function Using in Lab
-    - Average If
+    - Filtering 
+    - Function 
+    - Sorting
     - XLookup
 
 
