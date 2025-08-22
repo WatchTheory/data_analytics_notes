@@ -1,7 +1,6 @@
 
 
 
-
 Function Using in Lab
     - Average If
     - XLookup
