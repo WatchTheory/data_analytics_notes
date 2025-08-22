@@ -5,7 +5,7 @@
 
 
 
-Client Introduction 
+**Client Introduction**
 
 - XLookup
     - only 3 arguments
@@ -16,25 +16,25 @@ Client Introduction
     - what should excel display if you lookup value not found 
 
 
-- Task 1 - Part 1:
+- **Task 1 - Part 1:**
     - XlookUp
         - show example 
     - creating pivot tables 
 
-- Task 1 - Part 2
+- **Task 1 - Part 2**
     - creating the pivot table
         - figure out what goes into "Rows"
             - "What do you want in the Rows First?"
         - count function 
 
-- Task 2 
+- **Task 2** 
     - pivot table
         - Crtl + Shift + Down Arrow
         - refesh pivot table
         - filtering count data
 
 
-- Review 
+- **Review** 
     - Tom recommendation 
 
 

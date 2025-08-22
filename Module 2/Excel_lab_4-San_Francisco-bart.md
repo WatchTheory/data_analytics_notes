@@ -1,10 +1,17 @@
 
 
 Function Using in Lab
-    - Filtering 
-    - Function 
-    - Sorting
-    - XLookup
+- Filtering 
+    - filter data table
+- Function 
+    - average 
+    - months
+    - averageif
+        
+- Sorting
+    - sorting data down the data table
+- XLookup
+    - looking up cells from other tables in a workbook
 
 
 
