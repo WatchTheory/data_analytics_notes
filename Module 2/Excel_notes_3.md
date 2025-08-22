@@ -6,8 +6,10 @@ Utilize VLOOKUP and HLOOKUP functions for efficient data lookup.
 Understand and construct pivot tables to summarize and analyze data dynamically.
 Generate visually compelling pivot charts to enhance data interpretation and presentation. 
 
+Working on creating different visual graphs for tables in Excel
 
 #### Creating Visualizations
+
 
 1. Bar Chart
 2. Line Chart
