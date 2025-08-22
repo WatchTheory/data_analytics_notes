@@ -1,25 +1,79 @@
+<----------------------------------------Summary--------------------------------->
+ - Assignment to think about ( Getting into the mindset )
+        - pick 3 project and ask 3 questoin
+            - what kind of analytics do I want to run
+            - what feature do i need to run 
+            - wildcard - what eles do I want to do?
+                - what do i want to extract from other features
+                    - do we want to know the predict the range?
+                - "every project will be different"
+- come up with workshop days by next week. 
+        - Daniel Ideas: LLMs, Computer Vision, Neural Networks, Pytorch, Simulations
+        - Kevin: Programmer Thinking, APIs, make our own models.
+        - Charles: Environment Setup, game development, libraries (pandas, numpy, etc), terminals, SQL, Computer Science Basics .
 
 
-enter passphrase : 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICAH5y4XfgU0feG8TREmFVnhHTgSDZ4U6t3Swx1Zj13+ caseyk8@Outlook.com
+
+<---------------------------------------Summary------------------------------------->
 
 
-Today in class
+#### Today in class
+What was said in class today
+- Taking attendance and talking course project,computer, 
+- survey we have to do 
+    - 45 seconds survery 
+- " Don't worry yourself with the labs, for now take go over the lesson, watch the video. Don't worry about the assignments/labs"
+- "I want you to learn anything", "let be selfish together"
 
 
-taking attention and talking about stuff
-- survey we have to do.
+- Fixing any installation with my setup( visulization was not enabled)
+- Installing
+    - installed Arch Linux
+    - installed zsh in Arch
+    - installed UV
+    - introduction to pacman for Arch
 
-- "let be selfish together"
 
-
+&nbsp;
 - Commands
     - sudo paceman -Syu
-    
-    ssh-keygen -t ed25519 -C "caseyk8@outlook.com"
+    - SSH
+        - ssh-keygen -t ed25519 -C "caseyk8@outlook.com"
+        
 
 
-Assignment for weekend
+#### Finishing up Model 2 : Excel
+- Completed Excel Lesson 1,2,4 and 5
+
+
+
+&nbsp;
+##### Assignment for Weekend
 - for monday 
-    - install all my oh-my-zsh on arch  
+    - ==install all my oh-my-zsh on arch== 
     - come up with workshop days by next week. 
+        - Daniel Ideas: LLMs, Computer Vision, Neural Networks, Pytorch, Simulations
+        - Kevin: Programmer Thinking, APIs, make our own models.
+        - Charles: Environment Setup, game development, libraries (pandas, numpy, etc), terminals, SQL, Computer Science Basics .
+
+    - Assignment to think about ( Getting into the mindset )
+        - pick 3 project and ask 3 questoin
+            - what kind of analytics do I want to run
+            - what feature do i need to run 
+            - wildcard - what eles do I want to do?
+                - what do i want to extract from other features
+                    - do we want to know the predict the range?
+                - "every project will be different"
+
+
+&nbsp;
+#### Closing the week with a conversation
+- datbase -  collection of non-related or related data 
+- creating subsets 
+- "what is it what you want to do?"
+    - Excel 
+        - **<u>feature engineering</u>** - what kind of question do you want to know more of?
+            - referels to manulipate features 
+        - click > control+ shift+ down arrow, it will highligh all cells in the column
+    -
+
