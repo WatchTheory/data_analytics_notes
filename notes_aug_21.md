@@ -1,4 +1,7 @@
-<----------------------------------------Summary--------------------------------->
+
+
+
+<-------------------------------------------Summary----------------------------------->
  - Assignment to think about ( Getting into the mindset )
         - pick 3 project and ask 3 questoin
             - what kind of analytics do I want to run
@@ -12,10 +15,7 @@
         - Kevin: Programmer Thinking, APIs, make our own models.
         - Charles: Environment Setup, game development, libraries (pandas, numpy, etc), terminals, SQL, Computer Science Basics .
 
-
-
-<---------------------------------------Summary------------------------------------->
-
+---------------------------
 
 #### Today in class
 What was said in class today
@@ -38,12 +38,17 @@ What was said in class today
 - Commands
     - sudo paceman -Syu
     - SSH
-        - ssh-keygen -t ed25519 -C "caseyk8@outlook.com"
+        - adding ssh key to github
+            - ssh-keygen -t ed25519 -C "caseyk8@outlook.com"
+    
         
 
+--------------------------------------
 
 #### Finishing up Model 2 : Excel
 - Completed Excel Lesson 1,2,4 and 5
+    - fix issue with Excel Lab number system was based off the lesson.
+        - order goes 1,2,4,5 with lab #2 acting as lab 3
 
 
 
